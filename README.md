@@ -30,6 +30,9 @@ https://github.com/romkatv/powerlevel10k
 ### open zshrc
 open ~/.zshrc
 
+### add syntax highlighting
+https://formulae.brew.sh/formula/zsh-syntax-highlighting
+
 ## node & nvm
 https://nodejs.org/en/download/
 https://github.com/nvm-sh/nvm
